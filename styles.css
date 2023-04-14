@@ -59,7 +59,10 @@ body{
     }
     #second{
         font-weight: 400;
-    } 
+    }
+      .footer{
+        font-size: 1.5em;
+    }
 
   }
   @media screen and (max-width: 1440px){
@@ -73,6 +76,9 @@ body{
     }
     #second{
         font-weight: lighter;
+        font-size: 1.5em;
+    }
+      .footer{
         font-size: 1.5em;
     }
   }
