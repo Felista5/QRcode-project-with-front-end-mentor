@@ -60,7 +60,7 @@ body{
     #second{
         font-weight: 400;
     }
-      .footer{
+      .attribution{
         font-size: 1.5em;
     }
 
@@ -78,7 +78,7 @@ body{
         font-weight: lighter;
         font-size: 1.5em;
     }
-      .footer{
+      .attribution{
         font-size: 1.5em;
     }
   }
