@@ -20,8 +20,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ### What I learned
-I learnt how to use margin- auto to center my box in another
--I learnt how to use boreder-radius to curve the corners of my box 
+I learnt how to use margin- auto to center my box in another,
+I learnt how to use boreder-radius to curve the corners of my box,
+how to use the flex attribute better
+
 
 
 ### Continued development
